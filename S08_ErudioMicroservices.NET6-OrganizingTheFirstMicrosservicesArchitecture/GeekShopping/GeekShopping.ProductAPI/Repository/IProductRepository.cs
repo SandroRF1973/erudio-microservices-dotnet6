@@ -1,6 +1,6 @@
-﻿namespace GeekShopping.ProductAPI.Repository
+﻿namespace GeekShopping.ProductAPI.Repository;
+
+public interface IProductRepository
 {
-    public interface IProductRepository
-    {
-    }
+
 }
